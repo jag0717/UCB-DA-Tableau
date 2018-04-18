@@ -2,9 +2,9 @@
 
 ## Task
 
-** In this assignment, the data found in the Citi Bike Trip History Logs is used to build a data dashboard, story, or report.**
-** Jersey City Bike Trip Data from April 2017 to March 2018 (last one year) has been used for the analysis.**
-** Answers to the following questions are provided in Tableau Work Book.**
+**In this assignment, the data found in the Citi Bike Trip History Logs is used to build a data dashboard, story, or report.**
+**Jersey City Bike Trip Data from April 2017 to March 2018 (last one year) has been used for the analysis.**
+**Answers to the following questions are provided in Tableau Work Book.**
 
 * How many trips have been recorded total during the chosen period?
 
